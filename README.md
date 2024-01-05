@@ -9,10 +9,6 @@
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </h3>
 <br><br>
-<h3 align="center">My codewars stats (but in the future it will be better ;) ) <br><br>
-<img align="center" src="https://www.codewars.com/users/deuxego/badges/small"/>
-</h3>
-<br>
 <h2 align="center">My stats <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 </h2>
